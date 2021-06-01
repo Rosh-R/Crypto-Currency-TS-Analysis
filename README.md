@@ -1,1 +1,1 @@
-# Crypto-Currency-TS-Analysis
+# Crypto-Currency TS Analysis
